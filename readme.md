@@ -6,6 +6,6 @@ cache data, data with anomaly. It store data in plain JSON documents.
 
 Start playing with leanDB by downloading the binary (less than 10mb!)
 
-Get started http://leandb.prijm.com/doc/v1_0/what-is-leanDB/
+Get started http://leandb.github.io/doc/v1_0/what-is-leanDB/
 
-Download http://leandb.prijm.com/doc/v1_0/download-and-installation (Mac, Windows, Linux)
+Download http://leandb.github.io/doc/v1_0/download-and-installation (Mac, Windows, Linux)
